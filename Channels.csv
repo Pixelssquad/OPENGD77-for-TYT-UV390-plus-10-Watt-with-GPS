@@ -1,0 +1,13 @@
+Channel Number;Channel Name;Channel Type;Rx Frequency;Tx Frequency;Bandwidth (kHz);Colour Code;Timeslot;Contact;TG List;DMR ID;TS1_TA_Tx;TS2_TA_Tx ID;RX Tone;TX Tone;Squelch;Power;Rx Only;Zone Skip;All Skip;TOT;VOX;No Beep;No Eco;APRS;Latitude;Longitude;Use Location
+1;DMR Cassolo;Digital;	431,40000;	433,00000;;1;2;None;None;None;Off;Off;;;;P2;No;No;No;0;Off;No;No;None;0.128;0.008;Yes
+2;PENICE DMR;Digital;	431,37500;	432,97500;;1;2;None;None;None;Off;Off;;;;P9;No;No;No;0;Off;No;No;None;0.128;0.008;Yes
+3;MILANO1 DMR;Digital;	431,23750;	432,83750;;1;1;None;None;None;Off;Off;;;;P9;No;No;No;0;Off;No;No;GPS;0.128;0.008;Yes
+4;MILANO2 DMR;Digital;	430,73750;	435,73750;;1;1;None;None;None;Off;Off;;;;P9;No;No;No;0;Off;No;No;GPS;0.128;0.008;Yes
+5;IR1UIZ sl1;Digital;	431,43750;	433,03750;;1;1;None;None;None;Off;Off;;;;P9;No;No;No;0;Off;No;No;None;0.128;0.008;Yes
+6;IR1UIZ sl2;Digital;	431,43750;	433,03750;;1;2;None;None;None;Off;Off;;;;P9;No;No;No;0;Off;No;No;None;0.128;0.008;Yes
+7;IR2UGO Gallarate;Digital;	430,11250;	431,71250;;1;2;None;None;None;Off;Off;;;;P9;No;No;No;0;Off;No;No;None;0.128;0.008;Yes
+8;IR2ZYK Legnano;Digital;	430,77500;	432,37500;;1;2;None;None;None;Off;Off;;;;P9;No;No;No;0;Off;No;No;None;0.128;0.008;Yes
+9;IR2ZYE Magenta;Digital;	430,38750;	431,98750;;1;1;None;None;None;Off;Off;;;;P9;No;No;No;0;Off;No;No;None;0.128;0.008;No
+10;IR2UD Varese;Digital;	430,12500;	431,72500;;1;2;None;None;None;Off;Off;;;;P9;No;No;No;0;Off;No;No;None;0.128;0.008;Yes
+11;HB9DD CH;Digital;	438,43750;	430,83750;;1;2;None;None;None;Off;Off;;;;P9;No;No;No;0;Off;No;No;None;0.128;0.008;No
+12;IR2DO Venegono;Digital;	145,77500;	145,17500;;1;2;None;None;None;Off;Off;;;;P7;No;No;No;0;Off;No;No;None;0.128;0.008;No
